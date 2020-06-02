@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="result_srceen" />
+    <string name="delete_button">DEL</string>
+    <string name="equal_button">=</string>
+    <string name="seven_button">7</string>
+    <string name="eight_button">8</string>
+    <string name="nine_button">9</string>
+    <string name="division_button">/</string>
+    <string name="four_button">4</string>
+    <string name="five_button">5</string>
+    <string name="six_button">6</string>
+    <string name="minus_button">-</string>
+    <string name="three_button">3</string>
+    <string name="one_button">1</string>
+    <string name="two_button">2</string>
+    <string name="plus_button">+</string>
+    <string name="dot_button">.</string>
+    <string name="zero_button">0</string>
+    <string name="mod_button">%</string>
+    <string name="multiply_button">*</string>
+</resources>
